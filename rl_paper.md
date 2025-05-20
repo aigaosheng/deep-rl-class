@@ -8,7 +8,6 @@
 
 - [Getting Started With OpenAI Gym: The Basic Building Blocks](https://blog.paperspace.com/getting-started-with-openai-gym/)
 - [Make your own Gym custom environment](https://www.gymlibrary.dev/content/environment_creation/)
-- [CleanRL is a Deep Reinforcement Learning library that provides high-quality single-file implementation with research-friendly features](https://github.com/vwxyzjn/cleanrl)
 
 ## Monte Carlo and TD Learning [[mc-td]]
 
@@ -110,3 +109,13 @@ If you want to dive deeper into the question of variance and bias tradeoff in De
 ## Importance Sampling
 
 - [Importance Sampling Explained](https://youtu.be/C3p2wI4RAi8)
+
+## Toolkit
+- [CleanRL is a Deep Reinforcement Learning library that provides high-quality single-file implementation with research-friendly features](https://github.com/vwxyzjn/cleanrl)
+- [Stable Baselines3 (SB3) is a set of reliable implementations of reinforcement learning algorithms in PyTorch. ](https://github.com/DLR-RM/stable-baselines3)
+- [Gymnasium is an open source Python library for developing and comparing reinforcement learning algorithms](https://github.com/Farama-Foundation/Gymnasium)
+- [A library to load and upload Stable-baselines3 models from the Hub with Gymnasium and Gymnasium compatible environment](https://github.com/huggingface/huggingface_sb3)
+- [ a free and open-source cross-platform library for the development of multimedia applications like video games using Python](https://github.com/pygame/pygame)
+- [Imageio is a mature Python library that makes it easy to read and write image and video data](https://github.com/imageio/imageio)
+- [a Python library for video editing: cuts, concatenations, title insertions, video compositing (a.k.a. non-linear editing), video processing, and creation of custom effects.](https://github.com/Zulko/moviepy/)
+- [Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. ](https://github.com/optuna/optuna)
