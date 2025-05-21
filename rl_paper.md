@@ -120,3 +120,4 @@ If you want to dive deeper into the question of variance and bias tradeoff in De
 - [a Python library for video editing: cuts, concatenations, title insertions, video compositing (a.k.a. non-linear editing), video processing, and creation of custom effects.](https://github.com/Zulko/moviepy/)
 - [Optuna is an automatic hyperparameter optimization software framework, particularly designed for machine learning. ](https://github.com/optuna/optuna)
 - [Set of robotic environments based on PyBullet physics engine and gymnasium.](https://github.com/qgallouedec/panda-gym)
+- [DI-engine is a generalized decision intelligence engine for PyTorch and JAX.](https://github.com/opendilab/DI-engine/tree/main)
